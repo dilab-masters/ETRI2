@@ -53,7 +53,7 @@ pip install nltk
 
 ### 2. Resources
 #### For HOMER, the bias files for calibrating Llama-2 models can be found here.
-Download KBVQA_data from [here][(https://huggingface.co/datasets/BByrneLab/RAVQAV2Data)] and unzip the image folders. 
+Download KBVQA_data from [here](https://huggingface.co/datasets/BByrneLab/RAVQAV2Data)and unzip the image folders. 
 
 ### 3. Usage
 #### 3.1. Baseline.py
